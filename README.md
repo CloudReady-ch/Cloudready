@@ -5,8 +5,8 @@ Documentations et travaux internes "publics" pour l'association CloudReady et an
 ## Conventions
 ### Mise à disposition de ressources numériques
 #### Conventions
-* [Convention individuelle]
-* [Convention collective]
+* [Convention individuelle](convention-collective-CloudReady)
+* [Convention collective](Convention-collective-CloudReady)
 
 #### Jitsi tech4good
 Le service https://vidconf.tech4good.ch est mis à disposition gratuitement sous les réserves suivantes:
