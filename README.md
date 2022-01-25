@@ -5,9 +5,9 @@ Documentations et travaux internes "publics" pour l'association CloudReady et an
 ## Conventions
 ### Mise à disposition de ressources numériques
 #### Conventions
-* [Convention individuelle](convention-collective-CloudReady)
+* [Convention individuelle](convention-individuelle-CloudReady.md)
   * https://github.com/CloudReady-ch/Published.Docs/blob/master/convention-associations.md
-* [Convention collective](Convention-collective-CloudReady)
+* [Convention collective](Convention-collective-CloudReady.md)
   * https://github.com/CloudReady-ch/Published.Docs/blob/master/convention-travail-PK.md
 
 #### Jitsi tech4good
