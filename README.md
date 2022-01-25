@@ -28,6 +28,8 @@ Le service kmeet est ici: https://kmeet.infomaniak.com/
 
 ### En collaboration avec ICT-a.ch
 * Les espaces et tables de veilles collaboratives: https://github.com/ICT-A/CGU-Tables
-  * Tables rondes http://TR.ict-a.ch (Yammer)
-  * Tables longues http://TL.ict-a.ch (Yammer)
+  * Tables rondes http://TR.ict-a.ch (Yammer) sur des solutions numériques par thématiques fonctionnelles (comparatifs, guides)
+  * Tables longues http://TL.ict-a.ch (Yammer) sur des thématiques transverses ou organisationnelles, de la connaissance métier (ITIL, Projets, Hermes, ...) 
+    * Incluant de la doc non publique...
   * Espace forum privé (Yammer) historique, sur les outils du Cloud: http://agora.cloudready.ch
+    * non maintenu, les solutions "Cloud" ont été intégrées directement dans les Tables rondes, afin de comparer Cloud ou pas, dans une même thématique.
